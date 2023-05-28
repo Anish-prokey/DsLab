@@ -1,0 +1,122 @@
+[
+ {
+  "Sap System ID": "P41",
+  "Product name": "S4HANA ON PREMISE",
+  "Curren_Version": 2020,
+  "Previous_version":1709,
+  "Description": "SAP S\/4 HANA 2020",
+  "Instatus": "+",
+  "Modified date": "07\/12\/2022",
+  "Modified time": "13:16:16",
+  "Installed year": 2022,
+  "Previous installed":2017
+ },
+ {
+  "Sap System ID": "P41",
+  "Product name": "ABAP PLATFORM",
+  "Version": 1909,
+  "Previous_version":1506,
+  "Description": "ABAP PLATFORM 1909",
+  "Instatus": "+",
+  "Modified date": "09\/24\/2019",
+  "Modified time": "09:53:47",
+  "Installed year": 2019,
+  "Previous installed":2015
+ },
+ {
+  "Sap System ID": "PL1",
+  "Product name": "AC FOR S\/4HANA",
+  "Version": "V8100",
+  "Previous_version":"V8000",
+  "Description": "SAP AC 12.0 FOR SAP S\/4HANA",
+  "Instatus": "+",
+  "Modified date": "03\/14\/2021",
+  "Modified time": "09:40:36",
+  "Installed year": 2021,
+  "Previous installed":2017
+ },
+ {
+  "Sap System ID": "PL1",
+  "Product name": "S4HANA ON PREMISE",
+  "Version": 1909,
+  "Previous_version":1410,
+  "Description": "SAP S\/4HANA 1909",
+  "Instatus": "+",
+  "Modified date": "09\/23\/2019",
+  "Modified time": "13:14:47",
+  "Installed year": 2019,
+  "Previous installed":2014
+ },
+ {
+  "Sap System ID": "PG1",
+  "Product name": "SAP FIORI FOR SAP S\/4HANA 1909",
+  "Version": 1909,
+  "Previous_version":1405,
+  "Description": "SAP FIORI FOR SAP S\/4HANA 1909",
+  "Instatus": "+",
+  "Modified date": "09\/24\/2019",
+  "Modified time": "09:53:47",
+  "Installed year": 2019,
+  "Previous installed":2014
+ },
+ {
+  "Sap System ID": "PG1",
+  "Product name": "SAP S\/4 M&F MGMT BY MSG",
+  "Version": 5.9,
+  "Previous_version":5.8,
+  "Description": "SAP S\/4 MEAT&FISH 5.9 BY MSG",
+  "Instatus": "+",
+  "Modified date": "11\/24\/2022",
+  "Modified time": "20:42:49",
+  "Installed year": 2022,
+  "Previous installed":2018
+ },
+ {
+  "Sap System ID": "PF2",
+  "Product name": "S\/4HANA DATAMAINT BY VISTEX",
+  "Version": 2023,
+  "Previous_version":1709,
+  "Description": "S\/4HANA DATAMAINT VISTEX 1710",
+  "Instatus": "+",
+  "Modified date": "02\/10\/2023",
+  "Modified time": "18:41:57",
+  "Installed year": 2023,
+  "Previous installed":2017
+ },
+ {
+  "Sap System ID": "PF2",
+  "Product name": "SAP FIORI FES FOR S\/4HANA",
+  "Version": 2020,
+  "Previous_version":2017,
+  "Description": "SAP FIORI FES 2020 FOR S\/4HANA",
+  "Instatus": "+",
+  "Modified date": "11\/24\/2020",
+  "Modified time": "20:42:49",
+  "Installed year": 2020,
+  "Previous installed":2017
+ },
+ {
+  "Sap System ID": "PT3",
+  "Product name": "SAP REVENUE ACCOUNTING",
+  "Version": 1.3,
+  "Previous_version":1.2,
+  "Description": "SAP REVENUE ACCOUNTING 1.3",
+  "Instatus": "+",
+  "Modified date": "02\/09\/2023",
+  "Modified time": "17:41:57",
+  "Installed year": 2023,
+  "Previous installed":2019
+ },
+ {
+  "Sap System ID": "PT3",
+  "Product name": "SAP S\/4 M&F MGMT BY MSG",
+  "Version": 5.9,
+  "Previous_version":5.8,
+  "Description": "SAP S\/4 MEAT&FISH 5.9 BY MSG",
+  "Instatus": "+",
+  "Modified date": "11\/24\/2022",
+  "Modified time": "20:42:49",
+  "Installed year": 2022,
+  "Previous installed":2018
+ }
+]
